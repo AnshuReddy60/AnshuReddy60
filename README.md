@@ -1,57 +1,79 @@
 ## 👋 Hi there
 
-I'm **Anshu Veeramalla**, a Computer Science Engineering (IoT) student interested in  
-**web development and programming**.
+I'm **Anshu Veeramalla**, a Computer Science Engineering (IoT) student interested in
+**Artificial Intelligence, Machine Learning, Data Analytics, and Web Development**.
 
-I enjoy building web pages and improving my programming skills  
-through practice and projects.
+I enjoy building projects, exploring AI technologies, and improving my programming
+skills through hands-on practice.
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- Interested in web development fundamentals  
-- Programming using Java and Python  
-- Focused on writing clean and readable code  
+* Interested in **Artificial Intelligence and Machine Learning**
+* Exploring **Data Analysis and AI-powered applications**
+* Programming using **Python and Java**
+* Focused on writing **clean, readable, and maintainable code**
+
+---
+
+## 🧠 AI & Data Skills
+
+* Machine Learning fundamentals
+* Data preprocessing and analysis
+* Model training and evaluation
+* Basic computer vision concepts
+
+Libraries and tools:
+
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* TensorFlow (basic)
 
 ---
 
 ## 🧩 Tech Stack
 
 <p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 </p>
 
 ---
 
-## 💼 Experience
+## 📊 Data Analytics
 
-**Machine Learning Intern — upSkill Campus**
+I also work with **Tableau** for data visualization and dashboard creation.
 
-Worked with Python on machine learning models involving data preprocessing,  
-training, and evaluation. This helped strengthen my programming fundamentals  
-and understanding of practical workflows.
+🔗 Tableau Public Profile
+https://public.tableau.com/app/profile/anshu.veeramalla/vizzes
 
 ---
 
 ## 📂 Selected Projects
 
-**Food Surplus Redistribution Platform**  
-A web-based application connecting food donors with individuals and organizations in need,  
-including a rule-based chatbot to guide the donation process.
+**AI-Based Study Companion**
+A web-based platform offering tools like PDF summarization, quiz generation,
+and study planning to support personalized learning.
 
-**AI-Based Study Companion**  
-A web-based tool offering features such as PDF summarization and quiz generation  
-to support effective and personalized learning.
+**Crop and Weed Detection**
+Developed a CNN-based image classification model using TensorFlow to
+differentiate crops and weeds with real-time prediction.
+
+**Food Surplus Redistribution Platform**
+A web-based application connecting food donors with individuals and organizations
+in need, including a rule-based chatbot to guide the donation process.
 
 ---
 
@@ -66,8 +88,6 @@ to support effective and personalized learning.
 </a>
 </p>
 
-
 ---
 
-
-> Learning every day. Building step by step.
+> Learning every day. Building step by step. Exploring AI.
